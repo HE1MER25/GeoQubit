@@ -1,7 +1,7 @@
 # Qiskit Fall Fest 2026 — UIQC Club
 
 <p align="center">
-  <img src="UIQC_FALL_FEST_26.png"
+  <img src="UIQC_FALL_FEST_26(SPEAKERS).jpg"
        alt="University of Ibadan Quantum Computing Club Qiskit Fall Fest 2026"
        width="850">
 </p>
