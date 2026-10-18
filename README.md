@@ -30,7 +30,7 @@ No matter your starting point, the goal is simple:
 
 The Fall Fest consists of two main phases:
 
-### Phase 1 — Intensive Training
+### Phase 1 — Intensive Training (Completed)
 
 📅 **October 5–9, 2026**
 
@@ -47,7 +47,10 @@ The training combines:
 - Independent exploration
 - Collaborative problem-solving
 
-### Phase 2 — Group Project
+➡️ This phase is completed already. You can **[watch RECORDINGS here!](https://www.youtube.com/playlist?list=PLL5to9plRtNI)**
+
+
+### Phase 2 — Group Project (In Progress)
 
 📅 **October 12–23, 2026**
 
@@ -103,11 +106,11 @@ For complete challenge instructions, project requirements, submission rules, and
 
 | Activity | Date |
 |---|---|
-| Intensive Training | **October 5–9, 2026** |
-| Group Project Phase | **October 12–23, 2026** |
-| Project Plan Submission | **October 14, 2026** |
-| Final Project Submission | **October 21, 2026** |
-| Programme Conclusion | **October 23, 2026** |
+| Intensive Training (completed) | **October 5–9, 2026** |
+| Group Project Phase (in progress) | **October 12–23, 2026** |
+| Project Plan Submission (Elapsed) | **October 14, 2026** |
+| Final Project Submission (?) | **October 21, 2026** |
+| Programme Conclusion (?) | **October 23, 2026** |
 
 > Project submission requirements and instructions are provided in [`challenge.md`](Challenges/README.md).
 
