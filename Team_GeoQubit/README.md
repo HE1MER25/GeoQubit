@@ -14,7 +14,7 @@ Welcome to the official repository for **Team GeoQubit**'s Qiskit Fall Fest proj
 Traditional geophysical inversion techniques (such as estimating subsurface layer thicknesses or electrical resistivity from surface measurements) often encounter heavy computational bottlenecks when evaluating complex parameter spaces. This project implements a Parameterized Quantum Circuit (PQC) framework using Qiskit and statevector simulation to optimize and solve a 1D layered-media inverse problem.
 
 ## Technical Highlights & Upgrades
-1. **Advanced Physics Engine:** Adaptive image theory convergence ($N = \text{clip}\left(\left\lceil \frac{\ln(\text{tol} \cdot (1-\vert{}k\vert{})/2)}{\ln(\vert{}k\vert{})} \right\rceil, 20, 5000\right)$) and exact Hankel transform forward modeling using Gauss-Kronrod quadrature (`scipy.integrate.quad`) over Stefanescu’s kernel with $J_0$ Bessel functions (`scipy.special.j0`).
+1. **Advanced Physics Engine:** Adaptive image theory convergence and exact Hankel transform forward modeling using Gauss-Kronrod quadrature (`scipy.integrate.quad`) over Stefanescu’s kernel with $J_0$ Bessel functions (`scipy.special.j0`).
 2. **Hardware-Ready Qiskit Architecture:** Built using `ParameterVector("t", 18)` across a 3-qubit, 3-layer Variational Quantum Circuit ($RY/RZ$ rotation layers paired with a periodic $CX$ entangling ring) and explicit Pauli-$Z$ observable measurements via `SparsePauliOp`.
 3. **Optimization & Diagnostic Suite:** Hybrid optimization via COBYLA and SPSA, accompanied by an exhaustive plotting suite (sounding curves, convergence tracking, and the misfit landscape equivalence valley) benchmarked against classical least-squares.
 
