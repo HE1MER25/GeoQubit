@@ -176,6 +176,16 @@ Participating teams will add their **Team Name** and **Project Title** to [`Proj
 This will serve as a record of the projects developed during the **UIQC Club Qiskit Fall Fest 2026**.
 
 ---
+## Project Evaluation
+
+All submitted projects will be evaluated using a standardized
+100-point assessment rubric.
+
+The three highest-scoring projects will be recognized.  
+
+For detailed evaluation criteria, see the [`Project Judging Criteria`](JUDGING_CRITERIA.md).
+
+---
 
 ## Contact
 

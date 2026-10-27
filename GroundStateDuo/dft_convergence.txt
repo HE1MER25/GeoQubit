@@ -1,0 +1,16 @@
+Convergence tests from the cluster run (Quantum ESPRESSO 7.4.1, PBE, H2 at 0.74 A, spin-restricted).
+Energies in Hartree. NaN in the E(H) and De columns: those isolated-atom runs did not converge and were not used.
+
+--- cutoff test, box 24.0 bohr, d = 0.74 A ---
+ecutwfc  E(H2) Ha      E(H) Ha       De (eV)
+30       -1.16405248   -0.50111758   4.4033
+40       -1.16606251   NaN   NaN
+50       -1.16648102   NaN   NaN
+60       -1.16654130   NaN   NaN
+80       -1.16654959   NaN   NaN
+--- box test, ecutwfc 50, d = 0.74 A ---
+box(bohr)  E(H2) Ha      E(H) Ha       De (eV)
+18        -1.16648328   NaN   NaN
+22        -1.16648004   NaN   NaN
+26        -1.16648228   NaN   NaN
+30        -1.16648199   NaN   NaN
